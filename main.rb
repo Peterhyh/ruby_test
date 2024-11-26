@@ -1,5 +1,4 @@
-def say_this(thing_to_say)
-  puts thing_to_say + "1"
-end
+first_name = "Peter"
+last_name = "Huynh"
 
-say_this "Helloooo!"
+puts "Hi! My name is #{first_name} #{last_name}"
